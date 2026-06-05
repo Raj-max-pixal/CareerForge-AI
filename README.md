@@ -84,6 +84,12 @@ streamlit run app.py
 * Career progress tracking
 * Multi-language support
 
+ ## Deployment Link
+
+ https://careerforge-ai-2-wma7.onrender.com
+ 
+
+
 ## Hackathon Submission
 
 Built for the Microsoft Agents League Hackathon.
